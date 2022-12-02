@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0066cc&height=180&text=👋😎&fontSize=40)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%230066CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=true)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjangyejoo&count_bg=%230066CC&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=👀&edge_flat=true)](https://hits.seeyoufarm.com)
 
 Shine, Dream, Smile </br>
 Let us light up the night! :sparkles: </br>
